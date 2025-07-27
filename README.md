@@ -34,7 +34,6 @@ This dataset has 3 columns:
 Disease  | Count of Disease Occurrence | Symptom
 ```
 
-You can either copy paste the whole table from here to an excel sheet or scrape it out using Beautifulsoup.
 
 # Directory Structure
 
